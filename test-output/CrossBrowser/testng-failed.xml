@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [CrossBrowser]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="IETest(failed)">
+    <parameter name="Browser" value="ie"/>
+    <classes>
+      <class name="day6_15042025.CrossBrowserTestingDemo">
+        <methods>
+          <include name="app"/>
+        </methods>
+      </class> <!-- day6_15042025.CrossBrowserTestingDemo -->
+    </classes>
+  </test> <!-- IETest(failed) -->
+</suite> <!-- Failed suite [CrossBrowser] -->

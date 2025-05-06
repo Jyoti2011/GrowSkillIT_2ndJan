@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="5" total="9" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-06T08:03:39 IST" name="Suite" finished-at="2025-05-06T08:03:39 IST" duration-ms="78">
+    <groups>
+      <group name="Sanity">
+        <method signature="GroupsDemo.test3()[pri:0, instance:day5_14042025.GroupsDemo@2e3967ea]" name="test3" class="day5_14042025.GroupsDemo"/>
+        <method signature="GroupsDemo.test6()[pri:0, instance:day5_14042025.GroupsDemo@2e3967ea]" name="test6" class="day5_14042025.GroupsDemo"/>
+        <method signature="GroupsDemo.test7()[pri:0, instance:day5_14042025.GroupsDemo@2e3967ea]" name="test7" class="day5_14042025.GroupsDemo"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="GroupsDemo.test5()[pri:0, instance:day5_14042025.GroupsDemo@2e3967ea]" name="test5" class="day5_14042025.GroupsDemo"/>
+        <method signature="GroupsDemo.test6()[pri:0, instance:day5_14042025.GroupsDemo@2e3967ea]" name="test6" class="day5_14042025.GroupsDemo"/>
+        <method signature="GroupsDemo.test7()[pri:0, instance:day5_14042025.GroupsDemo@2e3967ea]" name="test7" class="day5_14042025.GroupsDemo"/>
+      </group> <!-- Regression -->
+      <group name="Smoke">
+        <method signature="GroupsDemo.test3()[pri:0, instance:day5_14042025.GroupsDemo@2e3967ea]" name="test3" class="day5_14042025.GroupsDemo"/>
+        <method signature="GroupsDemo.test5()[pri:0, instance:day5_14042025.GroupsDemo@2e3967ea]" name="test5" class="day5_14042025.GroupsDemo"/>
+        <method signature="GroupsDemo.test7()[pri:0, instance:day5_14042025.GroupsDemo@2e3967ea]" name="test7" class="day5_14042025.GroupsDemo"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2025-05-06T08:03:39 IST" name="Test" finished-at="2025-05-06T08:03:39 IST" duration-ms="78">
+      <class name="day5_14042025.GroupsDemo">
+        <test-method signature="test3()[pri:0, instance:day5_14042025.GroupsDemo@2e3967ea]" started-at="2025-05-06T08:03:39 IST" name="test3" finished-at="2025-05-06T08:03:39 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method signature="test5()[pri:0, instance:day5_14042025.GroupsDemo@2e3967ea]" started-at="2025-05-06T08:03:39 IST" name="test5" finished-at="2025-05-06T08:03:39 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method signature="test6()[pri:0, instance:day5_14042025.GroupsDemo@2e3967ea]" started-at="2025-05-06T08:03:39 IST" name="test6" finished-at="2025-05-06T08:03:39 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+        <test-method signature="test7()[pri:0, instance:day5_14042025.GroupsDemo@2e3967ea]" started-at="2025-05-06T08:03:39 IST" name="test7" finished-at="2025-05-06T08:03:39 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test7 -->
+      </class> <!-- day5_14042025.GroupsDemo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

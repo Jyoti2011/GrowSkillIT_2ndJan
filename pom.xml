@@ -26,7 +26,7 @@
           <configuration>
             <suiteXmlFiles>
             
-            <suiteXmlFile>Groups_testng.xml</suiteXmlFile>
+            <suiteXmlFile>testng.xml</suiteXmlFile>
             <!--suiteXmlFile>target\surefire-reports\testng-failed.xml</suiteXmlFile-->
             </suiteXmlFiles>
           </configuration>
